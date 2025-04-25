@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Gizlilik Politikası</title>
+</head>
+<body>
+  <h2>Gizlilik Politikası - ServiceAppYedekleme</h2>
+  <p>Bu uygulama yalnızca kullanıcının cihazında çalışır. Kullanıcı verileri cihazda tutulur, internete gönderilmez.</p>
+  <p>Yedekleme işlemi sadece kullanıcının kendi Google hesabına yapılır. Bu işlem sırasında veriler başka kimseyle paylaşılmaz.</p>
+  <p>Uygulama geliştiricisi, kullanıcı verilerine erişemez, saklayamaz ve göremez.</p>
+  <p>Uygulamanın çalışması tamamen kullanıcı kontrolündedir. Uygulama hiçbir sunucuya bağlı değildir.</p>
+</body>
+</html>
